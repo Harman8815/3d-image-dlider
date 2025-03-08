@@ -1,4 +1,3 @@
-
 # 🎠 **3D Image Slider**
 
 <div align="center">
@@ -24,8 +23,7 @@
 5. [Customization](#customization)
 6. [Project Structure](#project-structure)
 7. [Contributing](#contributing)
-8. [License](#license)
-9. [Contact](#contact)
+8. [Contact](#contact)
 
 ---
 
@@ -89,12 +87,6 @@ Contributions are welcome! Feel free to fork the repository, create an issue, or
 
 ---
 
-## 📜 **License**
-
-This project is distributed under the **MIT License**. See `LICENSE` for more details.
-
----
-
 ## 📞 **Contact**
 
 Your Name - [harman88157@gmail.com](mailto:harman88157@gmail.com)  
@@ -102,6 +94,10 @@ Your Name - [harman88157@gmail.com](mailto:harman88157@gmail.com)
 Project Link: [https://github.com/Harman8815/3d-image-dlider]
 
 ---
+
+## 📺 **Acknowledgements**
+
+This project was created using a tutorial from YouTube. The code is not completely original and was adapted from the tutorial.
 
 <div align="center">
     <p>Enhance your web UI with stunning 3D effects! 🎠✨</p>
