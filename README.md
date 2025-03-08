@@ -33,6 +33,10 @@
 - 📱 **Responsive design** – Adapts to different screen sizes for a seamless experience.
 - ⚡ **No JavaScript required** – A lightweight implementation using only HTML & CSS.
 
+
+Uploading 2025-03-07 12-09-18.mp4…
+
+
 ---
 
 ## 💻 **Tech Stack**
